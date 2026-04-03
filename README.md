@@ -1,13 +1,6 @@
-██████╗      ██╗
-██╔══██╗     ██║
-██║  ██║     ██║
-██║  ██║██   ██║
-██████╔╝╚█████╔╝
-╚═════╝  ╚════╝ 
-                
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Dhananjay+Dev+%3A);Debugging+Life+One+Coffee+at+a+Time;Writing+Code+That+Works+(Sometimes))](https://git.io/typing-svg)
-
-
+<p align="center">
+  <img src="Main header.png" />
+</p>
 
 ## > whoami
 ```json
