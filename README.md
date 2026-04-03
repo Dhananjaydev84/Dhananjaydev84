@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Main header.png" />
+  <img src="image.png" />
 </p>
 
 ## > whoami
