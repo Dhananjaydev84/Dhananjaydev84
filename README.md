@@ -1,14 +1,17 @@
-██████╗ ██╗  ██╗ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗     ██╗ █████╗ ██╗   ██╗
-██╔══██╗██║  ██║██╔══██╗████╗  ██║██╔══██╗████╗  ██║     ██║██╔══██╗╚██╗ ██╔╝
-██║  ██║███████║███████║██╔██╗ ██║███████║██╔██╗ ██║     ██║███████║ ╚████╔╝ 
-██║  ██║██╔══██║██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██   ██║██╔══██║  ╚██╔╝  
-██████╔╝██║  ██║██║  ██║██║ ╚████║██║  ██║██║ ╚████║╚█████╔╝██║  ██║   ██║   
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝   
-                                                                             
+██████╗      ██╗
+██╔══██╗     ██║
+██║  ██║     ██║
+██║  ██║██   ██║
+██████╔╝╚█████╔╝
+╚═════╝  ╚════╝ 
+                
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Dhananjay+Dev+%3A);Debugging+Life+One+Coffee+at+a+Time;Writing+Code+That+Works+(Sometimes))](https://git.io/typing-svg)
+
+
 
 ## > whoami
 ```json
-dj = {
+Info = {
     "name"      : "Dhananjay Dev",
     "status"    : "Running of coffee and questionable Decisions",
     "interests" : [
