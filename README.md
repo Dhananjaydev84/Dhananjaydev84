@@ -2,6 +2,11 @@
   <img src="image.png" />
 </p>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Dhananjay+Dev+%3A);Debugging+Life+One+Coffee+at+a+Time;Writing+Code+That+Works+(Sometimes)" alt="Typing SVG" /></a>
+</p>
+
+
 ## > whoami
 ```json
 Info = {
