@@ -9,16 +9,18 @@
 
 ## > whoami
 ```json
-Info = {
-    "name"      : "Dhananjay Dev",
-    "status"    : "Running of coffee and questionable Decisions",
-    "interests" : [
-        "Video games",
-        "Movies",
-        "Tech",
-        "and building software god knows who'll use "
-    ],
-    "currently" : "Working on SkipHostelWifi, a GOATED wifi connection assistant for my college"
+{
+  "name": "Dhananjay Dev",
+  "sanity": false,
+  "interests": [
+    "Embedded Systems",
+    "IoT",
+    "Software Engineering"
+  ],
+  "active_projects": [
+    "SkipHostelWifi",
+    "CIPHER"
+  ]
 }
 ```
 ## > contact --via
