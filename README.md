@@ -20,7 +20,7 @@ Building projects that solves everyday problems and makes technology a little mo
 
 - 🎮 **[HUDDLE](https://github.com/Dhananjaydev84/Huddle)** — A mobile-first Progressive Web App built with Vite, featuring a collection of party games for friends and groups.
 
-- ## > cat /proc/skills
+## > cat /proc/skills
 
 <div align="center">
 
